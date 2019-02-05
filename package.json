@@ -1,0 +1,22 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "biblioteca do curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicasouza4/js-tdd-course.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Jessica Souza <gsik_bx@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicasouza4/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/jessicasouza4/js-tdd-course#readme"
+}
